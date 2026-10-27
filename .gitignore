@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller build output (README: 실행 파일(.exe) 만들기)
+build/
+dist/
+*.spec
+
+# Tool state (Claude Code plugin, browser test screenshots)
+.omc/
+.playwright-mcp/
